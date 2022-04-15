@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(179, 179, 179);
+}
+p {
+  margin-top: 17%;
+  text-align: center;
+  font-size: 60px;
+  color: brown;
+}
+p::first-line {
+  color: rgb(34, 19, 49);
+}
+
+.form {
+  visibility: hidden;
+}
